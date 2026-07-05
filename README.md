@@ -8,7 +8,6 @@ This project demonstrates how Excel can be used as a Business Intelligence tool 
 
 # 📸 Dashboard Preview
 
-> Replace the image path below with your uploaded dashboard screenshot.
 
 ![BlinkIT Dashboard](Images/Dashboard%20Preview.png)
 
